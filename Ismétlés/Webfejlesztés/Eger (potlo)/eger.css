@@ -1,0 +1,113 @@
+html {
+    background-color: lightgray;
+}
+
+body {
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3em;
+    color: black;
+}
+
+h2 {
+    margin: 12px auto;
+    padding-left: 6px;
+    font-family: fantasy;
+    font-variant: small-caps;
+    border-left: 3px solid #A7B2F5;
+    letter-spacing: 3px;
+}
+
+#cimkep {
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+    background-image: url(Forrasok/kepek/eger.jpg);
+    margin-bottom: 20px;
+}
+
+#cimkep div {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(100, 100, 100, 40%);
+}
+
+.container .row {
+    align-items: center;
+}
+
+.container p {
+    padding-top: 6px;
+    text-align: center;
+}
+
+nav .container {
+    text-align: center;
+    font-weight: bold;
+}
+
+nav .container .row .col {
+    padding: 0px;
+}
+
+table, td, th {
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+td, th {
+    text-align: center;
+    padding: 10px;
+}
+
+th {
+    background-color: brown;
+    color: white;
+}
+
+#varosrol+img {
+    width: 35%;
+    margin-top: 12px;
+    margin-left: 12px;
+    float: right;
+    border: 2px dashed black;
+}
+
+#latnivalok {
+    clear: left;
+}
+
+a {
+    padding: 10px;
+}
+
+a:link, a:visited {
+    color: black;
+}
+
+@media (max-width: 768px) {
+    a {
+        display: block;
+    }
+}
+
+.container {
+    background-color: #FF000023;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+p {
+    text-align: justify;
+    line-height: 2em;
+}
