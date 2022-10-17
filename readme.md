@@ -1,4 +1,4 @@
-#Progalap_10b - CKIK
+# Progalap_10b - CKIK
 
 1. Vezérlési szerkezetek
    - Kiírás, beolvasás
