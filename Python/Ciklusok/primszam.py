@@ -9,6 +9,7 @@ i = 2
 while i < n and primE:
     if n % i == 0:
         primE = False
+        #print(i)
         #print("Nem primszam!")
     i += 1
 
@@ -16,4 +17,4 @@ while i < n and primE:
 if primE:
     print("Prímszám!")
 else:
-    print("Nem prímszám!")
+    print("Nem prímszám! Legkisebb osztoja:", i-1)
