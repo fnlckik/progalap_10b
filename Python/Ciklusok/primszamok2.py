@@ -5,7 +5,8 @@
 
 #2-tol m-ig minden szamrol eldondjuk, hogy prim-e
 m = int(input("m: "))
-j = 2
+print(2, end=" ")
+j = 3
 while j <= m:
 
     #Eldontjuk, hogy j szam prim-e
@@ -13,7 +14,7 @@ while j <= m:
     primE = True
 
     i = 2
-    while i < n // 2 and primE:
+    while i < n and primE:
         if n % i == 0:
             primE = False
         i += 1
@@ -22,4 +23,4 @@ while j <= m:
     if primE:
         print(j, end=" ")
 
-    j += 1
+    j += 2

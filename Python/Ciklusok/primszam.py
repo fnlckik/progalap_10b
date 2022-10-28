@@ -6,7 +6,7 @@ n = int(input("n: "))
 primE = True
 
 i = 2
-while i < n and primE:
+while i < n // 2 and primE:
     if n % i == 0:
         primE = False
         #print(i)
