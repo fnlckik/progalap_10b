@@ -6,3 +6,10 @@
    - Változók, értékadás
    - Elágazások (if, elif)
    - Ciklusok (for, while)
+   - Egymásba ágyazott ciklusok
+   
+2. Modulok, függvények
+   - Math modul (sqrt, pi)
+   - Random modul (random, randint)
+   
+3. 
