@@ -12,4 +12,8 @@
    - Math modul (sqrt, pi)
    - Random modul (random, randint)
    
-3. 
+3. Adatszerkezetek
+   - Listák
+
+4. Programozási tételek
+   - Megszámolás
