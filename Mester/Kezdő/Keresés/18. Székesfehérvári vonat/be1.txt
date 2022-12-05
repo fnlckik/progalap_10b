@@ -1,0 +1,8 @@
+7
+Budapest -1 480
+Szekesfehervar 510 515
+Siofok 545 550
+Szekesfehervar -1 600
+Siofok 630 635
+Fonyod 635 9999
+Fonyod 720 9999
