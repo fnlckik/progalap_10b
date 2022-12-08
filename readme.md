@@ -17,3 +17,6 @@
 
 4. Programozási tételek
    - Megszámolás
+   - Összegzés
+   - Minimum/Maximum kiválasztás
+   - Keresés (Eldöntés + Kiválasztás)
